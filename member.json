@@ -1,0 +1,17 @@
+{[
+ 	{  "name" : "tanaka",  "age" : "20",  "job" : "engineer",  "salary" : "400",  },
+	{  "name" : "yamada",  "age" : "21",  "job" : "sales",  "salary" : "350",  },
+	{  "name" : "takada",  "age" : "22",  "job" : "engineer",  "salary" : "600",  },
+	{  "name" : "yamana",  "age" : "30",  "job" : "sales",  "salary" : "450",  },
+	{  "name" : "suzuki",  "age" : "35",  "job" : "engineer",  "salary" : "200",  },
+	{  "name" : "kato",  "age" : "60",  "job" : "sales",  "salary" : "333",  },
+	{  "name" : "ito",  "age" : "59",  "job" : "sales",  "salary" : "750",  },
+	{  "name" : "sudo",  "age" : "39",  "job" : "engineer",  "salary" : "1000",  },
+	{  "name" : "maeda",  "age" : "44",  "job" : "sales",  "salary" : "800",  },
+	{  "name" : "sato",  "age" : "33",  "job" : "admin",  "salary" : "200",  },
+	{  "name" : "yoshida",  "age" : "33",  "job" : "admin",  "salary" : "400",  },
+	{  "name" : "sasaki",  "age" : "54",  "job" : "admin",  "salary" : "350",  },
+	{  "name" : "kimura",  "age" : "39",  "job" : "engineer",  "salary" : "700",  },
+	{  "name" : "hayashi",  "age" : "58",  "job" : "admin",  "salary" : "650",  },
+	{  "name" : "saito",  "age" : "44",  "job" : "admin",  "salary" : "500",  },
+]};
