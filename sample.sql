@@ -1,3 +1,6 @@
+# CREATE DATABASE testdb;
+# USE testdb;
+# CREATE TABLE employee(name varchar(20), age int, job varchar(20), salary int);
 INSERT INTO employee (name, age, job, salary) VALUES (tanaka,20,engineer,400);
 INSERT INTO employee (name, age, job, salary) VALUES (yamada,21,sales,350);
 INSERT INTO employee (name, age, job, salary) VALUES (takada,22,engineer,600);
