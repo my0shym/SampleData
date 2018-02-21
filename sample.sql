@@ -1,0 +1,15 @@
+INSERT INTO employee (name, age, job, salary) VALUES (tanaka,20,engineer,400);
+INSERT INTO employee (name, age, job, salary) VALUES (yamada,21,sales,350);
+INSERT INTO employee (name, age, job, salary) VALUES (takada,22,engineer,600);
+INSERT INTO employee (name, age, job, salary) VALUES (yamana,30,sales,450);
+INSERT INTO employee (name, age, job, salary) VALUES (suzuki,35,engineer,200);
+INSERT INTO employee (name, age, job, salary) VALUES (kato,60,sales,333);
+INSERT INTO employee (name, age, job, salary) VALUES (ito,59,sales,750);
+INSERT INTO employee (name, age, job, salary) VALUES (sudo,39,engineer,1000);
+INSERT INTO employee (name, age, job, salary) VALUES (maeda,44,sales,800);
+INSERT INTO employee (name, age, job, salary) VALUES (sato,33,admin,200);
+INSERT INTO employee (name, age, job, salary) VALUES (yoshida,33,admin,400);
+INSERT INTO employee (name, age, job, salary) VALUES (sasaki,54,admin,350);
+INSERT INTO employee (name, age, job, salary) VALUES (kimura,39,engineer,700);
+INSERT INTO employee (name, age, job, salary) VALUES (hayashi,58,admin,650);
+INSERT INTO employee (name, age, job, salary) VALUES (saito,44,admin,500);
